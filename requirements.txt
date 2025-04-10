@@ -1,6 +1,8 @@
-streamlit
-tensorflow
-matplotlib
-scikit-learn
-numpy
-Pillow
+streamlit==1.30.0
+tensorflow==2.15.0
+numpy>=1.22.0
+pillow>=9.0.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+streamlit-lottie==0.0.5
+pyttsx3==2.90
