@@ -56,9 +56,6 @@ Traditional survivor detection techniques face significant limitations:
 
 ---
 
-
----
-
 ## 🛠️ Technology Stack
 
 ### Hardware
